@@ -11,10 +11,17 @@ Proyek ini dikerjakan secara komprehensif (end-to-end) dari tahap riset pasar hi
 ---
 ## 📊 Insight & Analisis Dashboard
 Berdasarkan visualisasi data yang telah dibangun melalui Google Looker Studio, terdapat beberapa temuan kunci mengenai kondisi pasar dan persaingan bisnis pencetakan sublimasi:
+
+
+<img width="959" height="599" alt="Screenshot 2026-09-24 040453" src="https://github.com/user-attachments/assets/0732211a-4cee-4f5a-9f50-41bfb2ba156f" />
+
 1. Potensi Pasar
    Dashboard menunjukkan terdapat total 383 data potensial pelanggan yang tersebar di wilayah Jabodetabek dan Bandung, dengan estimasi kebutuhan bulanan mencapai 287.450 meter.
    Kota Bandung memimpin secara signifikan sebagai area dengan konsentrasi calon pelanggan terbanyak, yaitu mencapai 90 data bisnis.   Dari segi jenis produk, pasar didominasi oleh kebutuhan pembuatan Jersey (54,8%) dan Hijab (30,3%).
    Meskipun Jersey mendominasi, lebih dari separuh pasar (53,3%) ternyata sudah menggunakan metode in-house printing atau mencetak secara mandiri.
+
+   
+<img width="960" height="600" alt="Screenshot 2026-09-04 133025" src="https://github.com/user-attachments/assets/75f7cb07-d908-4db0-b25d-bea4ee0b4ace" />
    
 2. Lanskap Persaingan & Analisis Kepadatan
    Terdapat 57 vendor kompetitor yang beroperasi, dengan rata-rata harga pasar berada di kisaran Rp27.645 per meter dan rata-rata Minimum Order Quantity (MOQ) di angka 8,49 meter.
